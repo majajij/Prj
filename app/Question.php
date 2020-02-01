@@ -3,7 +3,7 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
-use Psy\Util\Str;
+use Illuminate\Support\Str;
 
 class Question extends Model
 {
@@ -16,7 +16,7 @@ class Question extends Model
 
     public function setTitleAttribute($value){
         $this->attributes['title'] = $value;
-        $this->attributes['slug'] = Str::slug($value);
+        $this->attributes['slug'] = Str::slug($value, '-');
     }
 
 }
