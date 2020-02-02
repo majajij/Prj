@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b16f8bf-713e-4a7d-bcf1-7e641c3bf630" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/dictionaries/majajij.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/Question.php" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Question.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +124,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -148,7 +149,8 @@
       <updated>1580485565943</updated>
       <workItem from="1580485574606" duration="2049000" />
       <workItem from="1580506944585" duration="6153000" />
-      <workItem from="1580567614490" duration="6362000" />
+      <workItem from="1580567614490" duration="6861000" />
+      <workItem from="1580650226856" duration="1697000" />
     </task>
     <servers />
   </component>
@@ -160,6 +162,10 @@
       <screen x="52" y="27" width="1314" height="741" />
     </state>
     <state x="304" y="59" width="800" height="684" key="#Notifications/52.27.1314.741@52.27.1314.741" timestamp="1580567653976" />
+    <state x="91" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1580658169813">
+      <screen x="52" y="27" width="1314" height="741" />
+    </state>
+    <state x="91" y="27" width="1022" height="737" key="SettingsEditor/52.27.1314.741@52.27.1314.741" timestamp="1580658169813" />
     <state x="365" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580485637029">
       <screen x="52" y="27" width="1314" height="741" />
     </state>
