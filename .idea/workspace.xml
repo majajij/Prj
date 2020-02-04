@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b16f8bf-713e-4a7d-bcf1-7e641c3bf630" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/dictionaries/majajij.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Http/Controllers/QuestionsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Http/Controllers/QuestionsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Question.php" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/../app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/questions/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/views/questions/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +152,7 @@
       <workItem from="1580506944585" duration="6153000" />
       <workItem from="1580567614490" duration="6861000" />
       <workItem from="1580650226856" duration="1697000" />
+      <workItem from="1580811839645" duration="179000" />
     </task>
     <servers />
   </component>
